@@ -856,6 +856,10 @@ video {
   background-image: url('dist/gambar/eskul/voli.jpg');
 }
 
+.bg-\[url\(\'\/\/dist\/gambar\/eskul\/reban\.jpg\'\)\] {
+  background-image: url('//dist/gambar/eskul/reban.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
