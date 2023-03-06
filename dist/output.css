@@ -824,6 +824,22 @@ video {
   background-image: url('/dist/gambar/voli.jpg');
 }
 
+.bg-\[url\(\'\/dist\/gambar\/eskul\/reban\.jpg\'\)\] {
+  background-image: url('/dist/gambar/eskul/reban.jpg');
+}
+
+.bg-\[url\(\'\/dist\/gambar\/eskul\/vokal\.jpg\'\)\] {
+  background-image: url('/dist/gambar/eskul/vokal.jpg');
+}
+
+.bg-\[url\(\'\/dist\/gambar\/eskul\/voli\.jpg\'\)\] {
+  background-image: url('/dist/gambar/eskul/voli.jpg');
+}
+
+.bg-\[url\(\'\/dist\/gambar\/eskul\/catur\.jpg\'\)\] {
+  background-image: url('/dist/gambar/eskul/catur.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
