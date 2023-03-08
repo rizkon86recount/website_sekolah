@@ -587,24 +587,14 @@ video {
   margin: 0.75rem;
 }
 
-.mx-8 {
-  margin-left: 2rem;
-  margin-right: 2rem;
+.mx-5 {
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
 }
 
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
-}
-
-.mx-3 {
-  margin-left: 0.75rem;
-  margin-right: 0.75rem;
-}
-
-.mx-5 {
-  margin-left: 1.25rem;
-  margin-right: 1.25rem;
 }
 
 .mb-10 {
@@ -683,24 +673,12 @@ video {
   height: 100%;
 }
 
-.w-48 {
-  width: 12rem;
-}
-
-.w-full {
-  width: 100%;
-}
-
 .w-40 {
   width: 10rem;
 }
 
-.w-10 {
-  width: 2.5rem;
-}
-
-.w-36 {
-  width: 9rem;
+.w-full {
+  width: 100%;
 }
 
 .max-w-\[250px\] {
@@ -830,20 +808,8 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\/dist\/gambar\/catur\.jpg\'\)\] {
-  background-image: url('/dist/gambar/catur.jpg');
-}
-
-.bg-\[url\(\'\/dist\/gambar\/reban\.jpg\'\)\] {
-  background-image: url('/dist/gambar/reban.jpg');
-}
-
-.bg-\[url\(\'\/dist\/gambar\/vokal\.jpg\'\)\] {
-  background-image: url('/dist/gambar/vokal.jpg');
-}
-
-.bg-\[url\(\'\/dist\/gambar\/voli\.jpg\'\)\] {
-  background-image: url('/dist/gambar/voli.jpg');
+.bg-\[url\(\'\/dist\/gambar\/eskul\/catur\.jpg\'\)\] {
+  background-image: url('/dist/gambar/eskul/catur.jpg');
 }
 
 .bg-\[url\(\'\/dist\/gambar\/eskul\/reban\.jpg\'\)\] {
@@ -856,30 +822,6 @@ video {
 
 .bg-\[url\(\'\/dist\/gambar\/eskul\/voli\.jpg\'\)\] {
   background-image: url('/dist/gambar/eskul/voli.jpg');
-}
-
-.bg-\[url\(\'\/dist\/gambar\/eskul\/catur\.jpg\'\)\] {
-  background-image: url('/dist/gambar/eskul/catur.jpg');
-}
-
-.bg-\[url\(\'dist\/gambar\/eskul\/catur\.jpg\'\)\] {
-  background-image: url('dist/gambar/eskul/catur.jpg');
-}
-
-.bg-\[url\(\'dist\/gambar\/eskul\/reban\.jpg\'\)\] {
-  background-image: url('dist/gambar/eskul/reban.jpg');
-}
-
-.bg-\[url\(\'dist\/gambar\/eskul\/vokal\.jpg\'\)\] {
-  background-image: url('dist/gambar/eskul/vokal.jpg');
-}
-
-.bg-\[url\(\'dist\/gambar\/eskul\/voli\.jpg\'\)\] {
-  background-image: url('dist/gambar/eskul/voli.jpg');
-}
-
-.bg-\[url\(\'\/\/dist\/gambar\/eskul\/reban\.jpg\'\)\] {
-  background-image: url('//dist/gambar/eskul/reban.jpg');
 }
 
 .bg-cover {
@@ -954,16 +896,12 @@ video {
   padding-bottom: 1.25rem;
 }
 
-.pl-20 {
-  padding-left: 5rem;
+.pl-0 {
+  padding-left: 0px;
 }
 
-.pr-20 {
-  padding-right: 5rem;
-}
-
-.pt-10 {
-  padding-top: 2.5rem;
+.pr-0 {
+  padding-right: 0px;
 }
 
 .pt-16 {
@@ -978,40 +916,16 @@ video {
   padding-top: 6rem;
 }
 
+.pt-32 {
+  padding-top: 8rem;
+}
+
 .pt-36 {
   padding-top: 9rem;
 }
 
 .pt-4 {
   padding-top: 1rem;
-}
-
-.pl-10 {
-  padding-left: 2.5rem;
-}
-
-.pr-10 {
-  padding-right: 2.5rem;
-}
-
-.pl-5 {
-  padding-left: 1.25rem;
-}
-
-.pr-5 {
-  padding-right: 1.25rem;
-}
-
-.pl-0 {
-  padding-left: 0px;
-}
-
-.pr-0 {
-  padding-right: 0px;
-}
-
-.pt-32 {
-  padding-top: 8rem;
 }
 
 .text-center {
@@ -1205,11 +1119,6 @@ body {
 .hover\:text-primary:hover {
   --tw-text-opacity: 1;
   color: rgb(20 184 166 / var(--tw-text-opacity));
-}
-
-.hover\:text-slate-500:hover {
-  --tw-text-opacity: 1;
-  color: rgb(100 116 139 / var(--tw-text-opacity));
 }
 
 .hover\:opacity-80:hover {
